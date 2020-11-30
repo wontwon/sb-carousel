@@ -1,4 +1,19 @@
 # SB Carousel 
 
-## To install
+## Installation
 run ``` yarn add sb-carousel ```
+
+## Usage
+
+```
+import { Carousel } from "sb-carousel"
+
+
+return (
+  <div>
+    <Carousel />
+  </div>
+
+)
+
+```
