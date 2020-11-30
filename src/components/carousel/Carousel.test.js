@@ -5,7 +5,7 @@ import renderer from "react-test-renderer";
 // internal imports 
 import Carousel from "./index";
 
-import { CAROUSEL_PANEL_DATA } from "../../constants";
+import { CAROUSEL_PANEL_DATA } from "./constants";
 
 it ('renders correctly with no items', () => {
   const tree = renderer.create(<Carousel />).toJSON();
