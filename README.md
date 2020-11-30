@@ -18,3 +18,8 @@ return (
 
 )
 ```
+
+## Testing
+```
+npm test
+```
