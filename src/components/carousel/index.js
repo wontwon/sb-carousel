@@ -6,7 +6,7 @@ import shortid from "shortid";
 
 // internal imports
 import { CarouselItem, CarouselNav } from "./components";
-import { CAROUSEL_PANEL_DATA } from "../../constants";
+import { CAROUSEL_PANEL_DATA } from "./constants";
 
 const StyledContainer = styled.div`
   display: flex; 
